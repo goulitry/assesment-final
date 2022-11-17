@@ -1,0 +1,154 @@
+body {
+  background-image: url(assets/Dumfries\ and\ Galloway\ College\ E-sports\ Labdark.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: ;
+}
+  
+h1{
+  background-color: #ffffff;
+  color: #000;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+  color: #ffffff;
+  font-family: 'Gill Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  font-style: oblique;
+}
+
+p{
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+table {
+  font-family: Gill 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 50px 0px 50px 0px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+title {
+  font-size: 65px;
+}
+
+image{
+  text-align: bottom_right;
+}
+
+#navbar-primary.navbar-default {
+  background: transparent;
+  border:none;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+.navbar-nav li {
+  display: inline-block;
+  float: none;
+}
+
+.navbar-nav a {
+  padding-left: 30px;
+  padding-right: 30px;
+  }
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: px;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+
+
+#mainimage {
+  filter: brightness(30%);
+}
+
+
+#background {
+  size: 1920px;
+}
+
+#primary_feature{
+  background-image: url("assets/Dumfries\ and\ Galloway\ College\ E-sports\ Lab.jpg");
+}
+
+
+
+p {
+  font-size: 15px;
+}
+
+.collogo {
+  margin-left: 80px;
+}
+
+.logoboard {
+  margin-left: 180px;
+}
+
+.scanned {
+  margin-left: 180px;
+}
+
+.laptop {
+  margin-left: 180px;
+}
